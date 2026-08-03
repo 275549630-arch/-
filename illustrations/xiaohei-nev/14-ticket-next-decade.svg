@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<style><![CDATA[ .line{fill:none;stroke:#111;stroke-width:8;stroke-linecap:round;stroke-linejoin:round} .thin{fill:none;stroke:#111;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;opacity:.45} .note{font-family:"Kaiti SC","STKaiti","Noto Sans CJK SC","Microsoft YaHei",sans-serif;font-weight:700} ]]></style>
+<rect width="1600" height="900" fill="white"/>
+<g class="thin"><path class="thin" d="M80 160 q 20 -20 45 0"/><path class="thin" d="M215 230 q 20 20 45 0"/><path class="thin" d="M350 90 q 20 -20 45 0"/><path class="thin" d="M485 160 q 20 20 45 0"/><path class="thin" d="M620 230 q 20 -20 45 0"/><path class="thin" d="M755 90 q 20 20 45 0"/><path class="thin" d="M890 160 q 20 -20 45 0"/><path class="thin" d="M1025 230 q 20 20 45 0"/></g>
+<g class="line"><g transform="translate(610,455) scale(1.25)"><path d="M40 85 C70 35 170 30 205 82 L250 92 C270 98 282 115 278 135 L24 135 C18 110 24 95 40 85 Z"/><path d="M84 80 L115 47 L166 50 L192 83 Z"/><circle cx="75" cy="138" r="24"/><circle cx="220" cy="138" r="24"/><circle cx="75" cy="138" r="7"/><circle cx="220" cy="138" r="7"/><path d="M122 100 L154 100"/></g><g transform="translate(360,410) scale(1.55)"><path d="M28 118 C8 80 20 25 80 18 C140 25 155 82 132 120 C108 153 55 154 28 118 Z" fill="white"/><path d="M45 70 C12 100 20 130 45 112"/><path d="M115 70 C145 30 160 48 140 65"/><circle cx="58" cy="70" r="9"/><circle cx="101" cy="70" r="9"/><path d="M62 105 C78 116 96 114 108 101"/><path d="M45 24 L30 3"/><path d="M112 25 L130 5"/><path d="M55 150 L48 178"/><path d="M105 150 L115 178"/></g><g transform="translate(990,300) scale(0.95)"><path d="M28 118 C8 80 20 25 80 18 C140 25 155 82 132 120 C108 153 55 154 28 118 Z" fill="white"/><path d="M45 70 C5 55 0 90 28 92"/><path d="M115 68 C155 52 160 92 132 93"/><circle cx="58" cy="70" r="9"/><circle cx="101" cy="70" r="9"/><path d="M62 105 C78 116 96 114 108 101"/><path d="M45 24 L30 3"/><path d="M112 25 L130 5"/><path d="M55 150 L48 178"/><path d="M105 150 L115 178"/></g>
+<path d="M180 735 C500 705 850 780 1420 720"/><path d="M1210 570 l120 -55 l80 65 l-150 45 z"/><path d="M1280 515 l25 -65 l50 70"/>
+<path d="M705 410 l30 -55 l35 60 l-28 35 z"/><path d="M870 398 l65 0 l0 48 l-65 0 z"/>
+</g>
+<text x="90" y="105" class="note" font-size="58" fill="#111">十年入场券</text>
+<g transform="translate(105,185) rotate(-7)"><text class="note" fill="#f57c00" font-size="34">价格战是假象</text></g>
+<g transform="translate(1160,180) rotate(6)"><text class="note" fill="#1976d2" font-size="36">未来才是真战场</text></g>
+<g transform="translate(1030,755) rotate(-4)"><text class="note" fill="#e53935" font-size="28">小黑观察：斗兽场门票写着未来十年，车企小</text></g>
+<text x="80" y="850" class="note" font-size="24" fill="#111" opacity=".6">新能源车企战争 · 正文配图 14/15</text>
+</svg>
